@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "863995954216",
+    "firebase_url": "https://projeto-2bim-27260-default-rtdb.firebaseio.com",
+    "project_id": "projeto-2bim-27260",
+    "storage_bucket": "projeto-2bim-27260.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:863995954216:android:a748b40611675ba75de11d",
+        "android_client_info": {
+          "package_name": "com.example.projeto_2bim"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEj43ohqT_43ZwB-IG0xTx2UFisWT6pW4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
