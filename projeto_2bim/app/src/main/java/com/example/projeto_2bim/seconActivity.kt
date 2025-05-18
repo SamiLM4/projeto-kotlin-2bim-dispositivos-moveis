@@ -25,7 +25,7 @@ import java.io.IOException
 class seconActivity : AppCompatActivity() {
 
     private val client = OkHttpClient()
-    private val apiKey = "AIzaSyCfQVYXUzSEv7N2UZqIYGbWh_2ukNvtaA4"
+    private val apiKey = ""
 
 
 
